@@ -1,0 +1,19 @@
+table{
+    color: rebeccapurple;
+    border-radius: 10px;
+    border:2px solid red
+}
+
+[href="#ideveloper"] {
+    color: fuchsia;
+}
+.table-purple{
+    color:green;
+}
+
+.table-bold{
+    font-weight: bold;
+}
+
+#ideveloper{
+font-weight: bold;
